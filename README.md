@@ -1,0 +1,1 @@
+-- Primeira Parte: Inserção de Dados; Populate do catálogo manual e do catálogo com IA
