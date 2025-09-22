@@ -1,11 +1,11 @@
 -- 📜 Sobre o Projeto --
-Este repositório contém uma série de scripts SQL para gerenciar um banco de dados de produtos de beleza, chamado BeautyTechDB. Os scripts demonstram operações de CREATE, INSERT, UPDATE e DELETE, simulando cenários reais de um e-commerce de produtos de beleza.
+Este repositório contém uma série de scripts SQL para gerenciar um banco de dados de produtos de beleza, chamado BeautyTech. Os scripts demonstram operações de CREATE, INSERT, UPDATE e DELETE, simulando cenários reais de um e-commerce de produtos de beleza.
 
 
 -- 🟩insert.sql -- 
 Este script é responsável pela criação da base de dados e inserção de dados.
 
-CREATE DATABASE e CREATE TABLE: Inicialmente, ele cria o banco de dados beautytechdb e a tabela produtos, definindo colunas como id, nome, marca, preco, categoria e estoque.
+CREATE DATABASE e CREATE TABLE: Inicialmente, ele cria o banco de dados beautytech e a tabela produtos, definindo colunas como id, nome, marca, preco, categoria e estoque.
 
 INSERT: Em seguida, o script preenche a tabela produtos com dados variados. Ele inclui inserções manuais e um bloco de inserções geradas por IA, garantindo um conjunto de dados robusto para os próximos scripts.
 
