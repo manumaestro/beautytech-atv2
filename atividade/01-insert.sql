@@ -1,4 +1,4 @@
-CREATE DATABASE beautytechdb;
+CREATE DATABASE beauty_tech_db;
 
 CREATE TABLE produtos (
     id SERIAL PRIMARY KEY,
